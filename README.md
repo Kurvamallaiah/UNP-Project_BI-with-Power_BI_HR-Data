@@ -8,5 +8,5 @@ Collaborated with stakeholders to understand their requirements them into effect
 
 Ardently involved in creating data model implemented data transformation and calculations using DSX for accurate analysis and reporting.
 
-PBIX FILE :https://drive.google.com/file/d/1pkAPXeNyHD__rnfEW5hOrEAj26BatFUc/view?usp=sharing
-pdf LINK:https://drive.google.com/file/d/1So8JAvPnEcDS_3HcnEscsGrECNespL5G/view?usp=sharing
+PBIX FILE :https://drive.google.com/file/d/1pkAPXeNyHD__rnfEW5hOrEAj26BatFUc/view?usp=sharing  
+PDF LINK:https://drive.google.com/file/d/1So8JAvPnEcDS_3HcnEscsGrECNespL5G/view?usp=sharing
